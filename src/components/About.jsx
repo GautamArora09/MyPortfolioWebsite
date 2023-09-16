@@ -14,24 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Hello, I'm Gautam, a CSE student with a passion for how computers work, how these applications are designed and what can be the newer ways to explore the world of computers to make our world better. Throughout my academic journey, I've been driven by a thirst for knowledge and a desire to make a positive impact.
+        <br /><br />
+        Currently pursuing my B.E CSE at Chitkara University, I've been fortunate to explore various facets of CSE and develop a solid foundation in Problem solving and Web development. My curiosity has led me to actively participate in various coding competiton and fun activites.
+        <br /><br />
+        As a student, I am committed to continuous growth and self-improvement. I'm always seeking ways to expand my knowledge and explore emerging trends in AI. Moreover, I find joy in collaborating with peers and learning from their diverse perspectives.
         </p>
-
         <br />
-
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
       </div>
     </div>
   );
